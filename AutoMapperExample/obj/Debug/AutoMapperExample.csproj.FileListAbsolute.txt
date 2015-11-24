@@ -1,0 +1,15 @@
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.exe.config
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.exe
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.pdb
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapper.dll
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.IO.dll
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.Runtime.dll
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.Threading.Tasks.dll
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapper.xml
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.IO.xml
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.Runtime.xml
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\bin\Debug\System.Threading.Tasks.xml
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.csproj.App.config
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.csprojResolveAssemblyReference.cache
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.exe
+c:\users\urs27579\documents\visual studio 2013\Projects\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.pdb
